@@ -1,1 +1,1 @@
-# blockchain_wallet_hw
+# hd_derive_hw
